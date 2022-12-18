@@ -3,6 +3,10 @@
 + Nama: Nova
 + Umur: 20
 + Tempat Tinggal: Tapa
+
++ Nama: Jovano
++ Umur: 40
++ Tempat Tinggal: Kota Gorontalo
 +
 + Nama: ...
 + Umur: ...
